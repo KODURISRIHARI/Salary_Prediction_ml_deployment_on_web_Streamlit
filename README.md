@@ -1,0 +1,1 @@
+i developed a  project  called Salary_prediction.py based on the YearsofExperience the model is going to predict the Salary for a person with the help of web app called Streamit to showcase the model prediction throught web
